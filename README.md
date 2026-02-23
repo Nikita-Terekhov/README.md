@@ -7,4 +7,5 @@ I am a Junior Frontend Developer.
 📫How to reach me: nikita.terekhov.work@mail.ru or -
 
 My main stack:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
