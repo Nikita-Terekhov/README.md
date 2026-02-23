@@ -8,4 +8,4 @@ I am a Junior Frontend Developer.
 
 My main stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux,tailwind)](https://skillicons.dev)
